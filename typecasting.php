@@ -1,0 +1,6 @@
+<?php
+
+  // implicity 
+  
+  // explicity typecasting
+?>
